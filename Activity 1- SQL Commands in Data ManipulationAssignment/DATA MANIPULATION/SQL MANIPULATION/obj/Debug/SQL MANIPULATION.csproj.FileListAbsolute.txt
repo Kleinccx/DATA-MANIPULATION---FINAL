@@ -1,0 +1,33 @@
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe.config
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.pdb
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.AssemblyReference.cache
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Form1.resources
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Properties.Resources.resources
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.GenerateResource.cache
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.CoreCompileInputs.cache
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\source\repos\SQL MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.pdb
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe.config
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.pdb
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Form1.resources
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Properties.Resources.resources
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.GenerateResource.cache
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\Desktop\DATA-MANIPULATION--main\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.pdb
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Form1.resources
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL_MANIPULATION.Properties.Resources.resources
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.GenerateResource.cache
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\obj\Debug\SQL MANIPULATION.pdb
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe.config
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.exe
+C:\Users\Klein\Desktop\Activity 1- SQL Commands in Data ManipulationAssignment\DATA MANIPULATION\SQL MANIPULATION\bin\Debug\SQL MANIPULATION.pdb
